@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="Neon Dasturchi_ Ozodovich _ Kamron" src="https://github.com/user-attachments/assets/a7f82d62-4370-41eb-ad62-1a7863654c44" />
 
 <div align="center">
 
