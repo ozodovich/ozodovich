@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Kamron Cyberpunk Banner" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Assalomu+alaykum!+Men+Kamronman;Future+Professional+Developer;Dream+%E2%80%A2+Code+%E2%80%A2+Create;Always+Learning+New+Things" alt="Typing SVG" />
 
 <br/>
