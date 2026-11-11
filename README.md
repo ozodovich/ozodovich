@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**ozodovich/ozodovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Assalomu alaykum! Men Kamronman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Kelajakdagi professional dasturchi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Salom%2C+GitHub!;Men+Kamronman;Dasturlashni+o%27rganyapman!" />
+
+</div>
+
+---
+
+## 👨‍💻 Men haqimda
+
+- 🇺🇿 O‘zbekistonlik dasturchi bo‘lishga intilaman.
+- 🌱 HTML va CSS o‘rganyapman.
+- 💻 Veb-saytlar yaratishga qiziqaman.
+- 🎯 Maqsadim — professional dasturchi bo‘lish.
+- 🔥 Har kuni o‘z ustimda ishlayman.
+
+## 🛠️ Texnologiyalarim
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github" />
+</p>
+
+## 🎯 Maqsadlarim
+
+- [ ] HTML'ni mukammal o‘rganish
+- [ ] CSS'ni mukammal o‘rganish
+- [ ] JavaScript o‘rganish
+- [ ] Birinchi professional saytimni yaratish
+- [ ] Full Stack dasturchi bo‘lish
+
+---
+
+<div align="center">
+
+### 💙 Katta orzular — katta mehnat!
+
+**Dasturlash — mening kelajagim!** 🚀
+
+</div>
