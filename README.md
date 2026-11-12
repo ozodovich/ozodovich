@@ -16,51 +16,28 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ⚡ QISQACHA MEN HAQIMDA
 
-```javascript
-const kamron = {
-  name: "Kamron",
-  username: "ozodovich",
-  country: "Uzbekistan 🇺🇿",
-  role: "Future Professional Developer",
-  currentlyLearning: ["HTML", "CSS", "JavaScript"],
-  tools: ["VS Code", "Git", "GitHub"],
-  mindset: "Never Stop Learning 🚀"
-};
+| Yo'nalish | Ma'lumot |
+| :--- | :--- |
+| 🇺🇿 **Manzil** | O'zbekiston |
+| 💻 **Soha** | Web Dasturlash (Frontend & Backend sari) |
+| 🌱 **Hozirgi fokus** | JavaScript mantiqi va real loyihalar qurish |
+| 🎯 **Asosiy maqsad** | Kuchli Full-Stack dasturchi bo'lish |
+| 🤝 **Hamkorlik** | Ochiq kodli (Open Source) va jamoaviy loyihalarga tayyorman |## ⚡ QISQACHA MEN HAQIMDA
 
-console.log("Welcome to my GitHub!");
-🇺🇿 O'zbekistonlik bo'lajak dasturchiman.
+| Yo'nalish | Ma'lumot |
+| :--- | :--- |
+| 🇺🇿 **Manzil** | O'zbekiston |
+| 💻 **Soha** | Web Dasturlash (Frontend & Backend sari) |
+| 🌱 **Hozirgi fokus** | JavaScript mantiqi va real loyihalar qurish |
+| 🎯 **Asosiy maqsad** | Kuchli Full-Stack dasturchi bo'lish |
+| 🤝 **Hamkorlik** | Ochiq kodli (Open Source) va jamoaviy loyihalarga tayyorman |## ⚡ QISQACHA MEN HAQIMDA
 
-💻 Web dasturlashni o'rganyapman.
-
-🚀 Yangi bilim va tajriba orttirishga intilaman.
-
-🎯 Maqsadim — professional dasturchi bo'lish.
-
-⚡ MY TECH STACK
-🌐 Currently Learning
-🛠️ Tools
-📊 GITHUB STATISTICS
-🎯 MY GOALS
-[x] GitHub profilimni yaratish
-
-[x] HTML o'rganishni boshlash
-
-[x] CSS o'rganishni boshlash
-
-[ ] JavaScript'ni chuqur o'rganish
-
-[ ] Katta loyihalar yaratish
-
-[ ] Open Source loyihalarda qatnashish
-
-🚀 MY PHILOSOPHY
-"DREAM BIG. CODE HARD. NEVER GIVE UP."
-Har bir professional dasturchi birinchi qator koddan boshlagan.
-
-🌐 CONNECT WITH ME
-💜 THANKS FOR VISITING MY PROFILE!
-© 2026 KAMRON | OZODOVICH
-
-Dream • Code • Create • Repea
+| Yo'nalish | Ma'lumot |
+| :--- | :--- |
+| 🇺🇿 **Manzil** | O'zbekiston |
+| 💻 **Soha** | Web Dasturlash (Frontend & Backend sari) |
+| 🌱 **Hozirgi fokus** | JavaScript mantiqi va real loyihalar qurish |
+| 🎯 **Asosiy maqsad** | Kuchli Full-Stack dasturchi bo'lish |
+| 🤝 **Hamkorlik** | Ochiq kodli (Open Source) va jamoaviy loyihalarga tayyorman |Dream • Code • Create • Repea
